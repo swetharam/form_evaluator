@@ -1,0 +1,10 @@
+sam	h	daniel	8975478		yghgj	uuuh	ym	99098	sxr@utdallas.edu	Yes	10/7/2017	20:54:32	20:55:02	9
+jack	b	beckam	99990000		ytyty	dallas	tx	89898	abc@utdallas.edu	Yes	10/7/2017	20:55:30	20:56:00	13
+alan	u	kesar	77778888999		yyyyy	richardson	tx	76767	mnop@utdallas.edu	Yes	10/7/2017	20:56:17	20:56:55	15
+swetha	s	ramaswamy			abcdef	mumbai	mh	400068		Yes	10/7/2017	20:57:11	20:57:40	17
+ishan		sharma	0090909090		estates of richardson	dallas	tx	99999	abcdef@utdallas.edu	Yes	10/7/2017	20:58:02	20:58:41	21
+manva 		pradhan	999900000		7421 Frankford	Dallas	Tx	75252	mnv@utdallas.edu	Yes	10/7/2017	20:58:55	20:59:38	23
+prashant		MMM			chatham courts	richardson	tx	787878		Yes	10/7/2017	20:59:51	21:00:20	27
+manali		kadam	887788787		abcd road	arlingtom	tx	89898	mnop@abcd.edu	Yes	10/7/2017	21:00:50	21:01:22	35
+hadid		thomas	88990008867		9908 apartsments	dallas	tx	77878	mnop@utdallas.edu	Yes	10/7/2017	21:01:43	21:02:26	42
+dijo		mathews	8878787878		chicago	chicagp	il	66666	dm@uiuc.edu	Yes	10/7/2017	21:02:47	21:03:22	44
