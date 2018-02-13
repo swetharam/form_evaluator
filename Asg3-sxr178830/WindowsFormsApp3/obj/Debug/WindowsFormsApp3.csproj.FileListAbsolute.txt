@@ -1,0 +1,10 @@
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Swetha\source\repos\Asg3-sxr178830\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
